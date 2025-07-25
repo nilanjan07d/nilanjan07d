@@ -1,3 +1,18 @@
+<!-- Animated Header GIF -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/bc/64/ec/bc64eca2ac244d7886d5da39ebcf13a7.gif" alt="Your Name | Computer Science Engineer | 10x Club CEO" style="width: 100%; max-width: 1200px; border-radius: 15px;" />
+</div>
+
+<!-- Typing Name SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Nilanjan+Dutta&center=true&width=500&height=50&color=FAF4D3&size=35" alt="Typing SVG" />
+</div>
+
+<!-- Tagline Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Dev+|+Web+Designer+|&center=true&width=500&height=50&color=ff7675&size=24" alt="Typing SVG" />
+</p>
+
 # 💫 About Me:
 👨‍💻 About Me — Nilanjan Dutta<br>📍 3rd Year B.Tech CSE | 💻 Web Developer & Designer | 🎓 Sister Nivedita University<br><br>Hello there! I’m Nilanjan Dutta, a third-year Computer Science & Engineering student at Sister Nivedita University, with a strong passion for web development, UI/UX design, and all things creative in tech. My journey into web development started with curiosity and quickly grew into a deep love for building meaningful digital experiences. 🚀<br><br>I thrive at the intersection of design and code — bringing ideas to life through responsive, modern, and user-focused websites and applications. I believe that great digital products are not only functional but also intuitive and beautiful.<br><br>💡 What I Do Best<br>🎨 UI/UX Design<br>I design clean, modern, and accessible interfaces that enhance user experience and align with brand identity.<br><br>💻 Front-End Development<br>Proficient in HTML, CSS, JavaScript, React, and Tailwind CSS, I build responsive web applications that look great and perform smoothly across all devices.<br><br>🔄 Lifelong Learning<br>Whether it's exploring new tools, diving into the latest frameworks, or contributing to projects, I believe in staying curious, adaptable, and always improving.<br><br>🌱 Currently Seeking<br>I'm open to internship opportunities, collaborative projects, or freelance gigs where I can apply my skills, learn from real-world challenges, and contribute meaningfully to a team or product.<br><br>Let’s connect and build something amazing together! ✨
 
